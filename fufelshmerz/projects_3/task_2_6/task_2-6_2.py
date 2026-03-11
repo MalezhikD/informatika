@@ -7,4 +7,5 @@ elif 5 <= temp <= 25:
 elif 25 < temp <= 35:
     print("Хорошо для растений C4-метаболизмом")
 else:
-    print("It's hot as hell! Cool down, bro.")
+
+    print("Cool down.")
