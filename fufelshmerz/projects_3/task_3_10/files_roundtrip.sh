@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "=== СОЗДАНИЕ ФАЙЛОВ (цикл for) ==="
+echo "=== СОЗДАНИЕ ФАЙЛОВ ==="
 
 for ((i=1; i<=10; i++)); do
     filename="test${i}.txt"
@@ -13,7 +13,7 @@ echo "Список созданных файлов:"
 ls -la test*.txt 2>/dev/null || echo "Файлы не найдены"
 
 echo ""
-echo "=== УДАЛЕНИЕ ФАЙЛОВ В ОБРАТНОМ ПОРЯДКЕ (цикл while) ==="
+echo "=== УДАЛЕНИЕ ФАЙЛОВ В ОБРАТНОМ ПОРЯДКЕ ==="
 
 counter=10
 while [ $counter -ge 1 ]; do
