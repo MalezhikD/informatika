@@ -1,0 +1,12 @@
+МЕДИАННЫЕ ЗНАЧЕНИЯ ПО ПАРАМЕТРАМ
+
+age_years: 4.70
+weight_kg: 65.85
+length_cm: 150.10
+shoulder_height_cm: 80.40
+tusk_length_cm: 9.50
+litter_size: 50.00
+health_score: 6.95
+territory_ha: 4.25
+
+ Всего параметров: 8

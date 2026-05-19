@@ -1,0 +1,12 @@
+МОДАЛЬНЫЕ ЗНАЧЕНИЯ ПО ВСЕМ СТОЛБЦАМ
+
+boar_id: 1
+gender: Male
+age_years: 5.9
+weight_kg: 63.5
+length_cm: 210.0
+shoulder_height_cm: 80.4
+tusk_length_cm: 0.0
+litter_size: 0.0
+health_score: 100.0
+territory_ha: 0.8

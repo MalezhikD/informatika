@@ -1,0 +1,42 @@
+ДИСПЕРСИЯ, СТАНДАРТНОЕ ОТКЛОНЕНИЕ, КОЭФФИЦИЕНТ ВАРИАЦИИ 
+
+Age Years:
+  Variance: 4.25 years²
+  Std Dev: 2.06 years
+  CV: 44.20 %
+
+Weight Kg:
+  Variance: 718.08 kg²
+  Std Dev: 26.80 kg
+  CV: 38.42 %
+
+Length Cm:
+  Variance: 681.50 cm²
+  Std Dev: 26.11 cm
+  CV: 17.43 %
+
+Shoulder Height Cm:
+  Variance: 137.81 cm²
+  Std Dev: 11.74 cm
+  CV: 14.75 %
+
+Tusk Length Cm:
+  Variance: 26.13 cm²
+  Std Dev: 5.11 cm
+  CV: 49.87 %
+
+Litter Size:
+  Variance: 1429.08²
+  Std Dev: 37.80
+  CV: 88.82 %
+
+Health Score:
+  Variance: 1378.65 pts²
+  Std Dev: 37.13 pts
+  CV: 101.36 %
+
+Territory Ha:
+  Variance: 4.17 ha²
+  Std Dev: 2.04 ha
+  CV: 46.96 %
+
